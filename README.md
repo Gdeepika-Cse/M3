@@ -85,7 +85,6 @@ To write a C program to read n elements as input and print the last element of t
 Thus the program to read n elements as input and print the last element of the array has been executed successfully.
  
 
-
 ## EX-14-POSITIVE-ARRAY-ELEMENTS
 ## AIM
 To write a C Program to count total number of positive elements in an array.
@@ -142,7 +141,6 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
  ![Screenshot 2025-04-27 141329](https://github.com/user-attachments/assets/0567ab25-4c21-49d8-a7cf-b38161180f76)
 
 ## Result:
-
 Thus, the program to replace all even elements with 'E' in one dimensional array was verified successfully.
 
 
